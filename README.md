@@ -6,7 +6,7 @@ React Native advanced difficulty project. Complex SideBar (minimized via hamburg
 
 STACK:
 
-React, React-Context, Tailwind, SyncFusion. All data is fake and connected to Data/dummy.jsx 
+React, React-Context, Tailwind, SyncFusion. All data is fake and connected to Data/dummy.jsx .  However most of this data is setup dynamically to simplify connection with server & db.
 
 OBJECTIVE:
 
