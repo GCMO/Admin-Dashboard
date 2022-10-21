@@ -2,7 +2,7 @@
 
 OVERVIEW:
 
-React Native advanced difficulty project. Complex SideBack (minimized via hamburged button) with Ecommerce Pages, Charts, TextEditor, ColorPicker, KanBan & Calendar. Other Pages inclued: UserProfile, Chats, Notification & Cart. Finally the ToolIcon provides a theme selector that allows for a Light/Dark Theme.
+React Native advanced difficulty project. Complex SideBar (minimized via hamburged button) with Ecommerce Pages, Charts, TextEditor, ColorPicker, KanBan & Calendar. UserProfile, Chats, Notification & Cart are in popup form. Finally the ToolIcon provides a theme selector that allows for a Light/Dark Theme and change of color for buttons and some other elements in the ECommerce page.
 
 STACK:
 
