@@ -16,3 +16,8 @@ LEARNING CURVE:
 
 This project has been on my TodoList for months. I finally got around to do it, using TAILWIND despite my resistance to inline CSS (I still hate it, but I can see the power of Tailwind abreviated commands, as well as not having to switch around to the CSS files all the time and/or having to find each class or ID). Overall I must admit Tailwind is quite efficient and a time saver, so eventually this resistance will dissipate. Also used all of SYNCFUSION free access features: another stip and frustrating learning curve, but they have great documentation and tutorials. I love their Charts and will likely use this library again in the future. 
 
+DEPLOYMENT:
+
+Deployed on VERCEL. First time using this platform, extremely smooth and very straight forward. Created by the guys that developed NEXT.JS, I have to say probably the best deployment UX out there right now. 
+To check out this project just click here (for optimized view reduced zoom to 75%) : https://ecommerce-admin-dashboard-ten.vercel.app/ 
+
