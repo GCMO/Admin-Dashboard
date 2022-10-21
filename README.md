@@ -14,5 +14,5 @@ To develop a fully customizable and very interactive ECommerce Dashboard ready t
 
 LEARNING CURVE:
 
-This project has been on my TodoList for months. I finally got around to do it, using Tailwind despite my resistance to inline CSS (I still hate it, but I can see the power of Tailwind abreviated commands, as well as not having to switch around to the CSS files all the time and/or having to find each class or ID). Also used all of SyncFusion free access features: another stip and frustrating learning curve, but they have great documentation and tutorials. I love their Charts and will likely use this library again in the future. 
+This project has been on my TodoList for months. I finally got around to do it, using TAILWIND despite my resistance to inline CSS (I still hate it, but I can see the power of Tailwind abreviated commands, as well as not having to switch around to the CSS files all the time and/or having to find each class or ID). Overall I must admit Tailwind is quite efficient and a time saver, so eventually this resistance will dissipate. Also used all of SYNCFUSION free access features: another stip and frustrating learning curve, but they have great documentation and tutorials. I love their Charts and will likely use this library again in the future. 
 
